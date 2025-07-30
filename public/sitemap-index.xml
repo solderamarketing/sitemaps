@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://soldera.org/sitemap-en.xml</loc>
+    <loc>https://soldera.org/sitemap-index-en.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://soldera.org/sitemap-et.xml</loc>
+    <loc>https://soldera.org/sitemap-index-et.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://soldera.org/sitemap-sv.xml</loc>
+    <loc>https://soldera.org/sitemap-index-sv.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://soldera.org/sitemap-lv.xml</loc>
+    <loc>https://soldera.org/sitemap-index-lv.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://soldera.org/sitemap-lt.xml</loc>
+    <loc>https://soldera.org/sitemap-index-lt.xml</loc>
   </sitemap>
   <sitemap>
-    <loc>https://soldera.org/sitemap-fi.xml</loc>
+    <loc>https://soldera.org/sitemap-index-fi.xml</loc>
   </sitemap>
 </sitemapindex>
